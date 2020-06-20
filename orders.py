@@ -1,7 +1,7 @@
 import googlemaps, re
 import db_connect
 
-gmaps = googlemaps.Client(key='AIzaSyAM6Og3CYCw7hqmg76Du6nsbxLZ_PI5tA4')
+gmaps = googlemaps.Client(key='')
 
 # Taking the customer's name
 def take_name(user_name = input('Hello, what\'s the customer\'s name? ')):
