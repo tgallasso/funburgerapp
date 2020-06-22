@@ -4,7 +4,7 @@ FunBurgerApp is a restaurant order management system through CLI.
 
 ## Instructions
 
-'''python
+```python
 change the API's key on the first lines to get it working.
 
 
