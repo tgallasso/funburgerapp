@@ -13,11 +13,11 @@ gmaps = googlemaps.Client(key='CHANGE THIS TO YOUR PERSONAL KEY TO MAKE IT WORK 
 
 ## Features
 
-• Easy to take the order
-• Automatically calculates delivery tax based on location
-• Shortcuts to typing menu's item
-• Stores name, zipcode and order on a DB
-• Creates a full report of orders
+* Easy to take the order
+* Automatically calculates delivery tax based on location
+* Shortcuts to typing menu's item
+* Stores name, zipcode and order on a DB
+* Creates a full report of orders
 
 ## Demo
 
